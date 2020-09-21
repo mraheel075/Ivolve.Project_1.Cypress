@@ -1,6 +1,4 @@
 {
-
-    "baseUrl": "http://qa-backup.ivolve.io:32485"
-
-
+  "baseUrl": "http://qa-backup.ivolve.io:32485",
+  "projectId": "znxyeg"
 }
