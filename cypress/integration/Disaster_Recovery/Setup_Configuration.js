@@ -1,12 +1,9 @@
 
-describe('Disaster Recovery Functionality', () => {
+describe('Verify the Disaster Recovery Functionality', () => {
 
-    it('Setup Configuration', () => {
-        cy.visit('/')
-        cy.get('#username').type("abc")
-        cy.get('#password').type("abcabc")
-        cy.get('.ant-btn').click()
-        cy.contains('ant-notification-notice-with-icon').should("have.class", "ant-notification-notice-with-icon")
+    it('Stage 1: Setup Configuration', () => {
+        cy.login("abc@gmail.com","123456")
+       
     })
 
   })
