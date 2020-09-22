@@ -1,4 +1,18 @@
 {
   "baseUrl": "http://qa-backup.ivolve.io:32485",
-  "projectId": "znxyeg"
+  "projectId": "znxyeg",
+
+
+
+
+  "reporter": "mochawesome",
+    "reporterOptions": {
+      "reportDir": "cypress/reports",
+      "reportFilename": "report",
+      "overwrite": false,
+      "html": true,
+      "json": true,
+      "charts": true
+    },
+    "video": false
 }

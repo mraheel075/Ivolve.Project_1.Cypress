@@ -8,7 +8,12 @@
   "author": "Muhammad Raheel",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^5.1.0"
+    "cypress": "^5.1.0",
+    "cypress-file-upload": "^4.1.1",
+    "mochawesome": "^6.1.1",
+    "mochawesome-merge": "^4.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   },
   "dependencies": {},
   "description": ""
