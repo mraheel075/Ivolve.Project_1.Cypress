@@ -4,6 +4,8 @@
     "Password": "1234",
     "project_Id": "f6db2924d5ca477dbcc6612efc885e36",
     "Internal_Network_Id":"16b40a0d-1418-438d-95fc-951a3c41afff",
-    "External_Network_Id":"external"
+    "External_Network_Id":"external",
+    "login_username":"qa-admin",
+    "login_username_password":"1234"
 
   }
